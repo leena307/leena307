@@ -5,6 +5,8 @@
 - 📫 You can reach me through linkdin.
 - 😄 Pronouns: Feel free to share your preferred pronouns.
 - ⚡ Fun fact: In my free time, I enjoy learning new things
+- 🛠️ Languages and Tools
+  c cplusplus windows  git Gitlab linux visual-studio sourcetree github python azureML vscode windows putty VM
 
 <!---
 leena307/leena307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
